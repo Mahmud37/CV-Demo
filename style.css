@@ -1,0 +1,154 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: azure;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.p{
+    margin: 1px;
+}
+
+hr{
+    border: solid black 2px;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+
+
+h1,h2,h3,h4,h5{
+    color: #119999;
+}
+
+/* header :start */
+
+.hr1{
+    border: solid black 4px;
+    margin: 20px auto;
+    border-bottom: none;
+}
+
+.div-clear{
+    clear: both;
+}
+
+.container{
+    margin: 0 auto;
+    background-color:#fae6e6;
+    padding: 20px;
+
+}
+
+.profile-img{
+    width: 130px;
+    height: 150px;
+    border: 3px solid palegreen;
+    border-radius: 50%;
+    float: left;
+}
+
+.header-bio{
+    float: left;
+    padding: 30px;
+}
+
+.header-cont{
+    float: right;
+    padding: 30px;
+}
+
+.header-cont a{
+
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.header-cont a:hover{
+    color: crimson;
+}
+
+.address{
+    color: #1979a9;
+    font-weight: bold;
+}
+
+/* header :end */
+
+
+/* body :start */
+.personal-info-title{
+float: left;
+padding: 30px;
+box-sizing: border-box;
+}
+
+.personal-info{
+float: left;
+padding: 30px;
+margin-left: 48px;
+box-sizing: border-box;
+}
+
+.hclass{
+    color: black;
+    font-weight: bold;
+}
+
+.edu-info{
+    float: left;
+    padding: 30px;
+    }
+
+.table{
+    float: left;
+    margin-top: 20px;
+    padding: 0px;
+    width: 600px;
+}
+
+/* body :end */
+
+/* language strat */
+.lan{
+    float: left;
+    padding: 30px;
+}
+.plang{
+    
+    float: left;
+    padding: 30px;
+}
+
+
+
+/* language :end */
+
+/* footer :start */
+.footerr{
+    background-color: brown;
+    text-align: center;
+    text-decoration: none;
+    padding: 20px;
+}
+
+.footerr a{
+    padding: 20px;
+    color: black;
+    font-weight: bolder;
+}
+
+.footerr a:hover{
+    padding: 20px;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: none;
+}
+
+.footerr p{
+    padding-top: 20px;
+    color: black;
+    font-weight: lighter;
+}
+
+/* footer end  */
